@@ -1,7 +1,7 @@
 # 岩石裂隙识别与岩体质量评价
 
 基于深度学习裂隙识别与迹线分析的野外岩体质量快速评价方法研究
-（北京地质实习 · 本科创新课题）
+（地质实习 · 本科创新课题）
 
 ## 技术流程
 野外岩石照片 → 图片预处理 → 深度学习裂隙识别 → 主裂隙识别 → 骨架化 → 矢量化（裂缝迹线） → S-RQD 计算 → 岩体质量评价
@@ -19,10 +19,5 @@
 | docs/ | 文档 | 技术流程说明、组会记录 |
 | scripts/ | 脚本 | 一键运行完整流程 |
 
-## 快速开始
-（待补充：环境安装与运行示例）
 
-## 参考文献
-- Yaqoob M, Ishaq M, Ansari M Y, et al. Semantic edge detection of fractures in geological outcrops. Scientific Reports, 2026.（GeoFractNet）
-- Chen J, Chen Y, Cohn A G, et al. A novel image-based approach for interactive characterization of rock fracture spacing in a tunnel face. JRMGE, 2022.（S-RQD 计算）
-- Deere D U. The Rock Quality Designation (RQD) Index in Practice.（RQD 经典理论）
+
