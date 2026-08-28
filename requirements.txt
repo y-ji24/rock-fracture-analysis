@@ -1,0 +1,5 @@
+numpy
+opencv-python
+scikit-image
+matplotlib
+# 深度学习框架请按所选模型安装（如 PyTorch 或 TensorFlow）

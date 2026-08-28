@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+data/raw/
+results/
+*.h5
+*.pth
+*.pt
+*.onnx
+!data/samples/
+.DS_Store
